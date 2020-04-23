@@ -1,5 +1,0 @@
-Documentacao do Prog_1
-
-- Diagrama de ER
-
-- Diagrama de casos de uso
