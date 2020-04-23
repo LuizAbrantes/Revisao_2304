@@ -1,1 +1,1 @@
-select * from dual where x = ;
+select * from dual where x = 1;
